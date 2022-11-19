@@ -1,0 +1,20 @@
+/*
+ *Name: Ryan Propst
+ *UnityID: rcpropst
+ *Date: 11/18/22
+ *Assignment: Independent Assignment 5
+ *Description: Styling
+ */
+ 
+.table-border {
+    border: 1px solid #FFFFFF ;
+}
+
+#photo-resize {
+    max-width: 250px ;
+	max-height: 300px ;
+}
+
+#photo-border {
+	border: 2px solid #008000 ;
+}
